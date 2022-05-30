@@ -1,0 +1,66 @@
+#set:hover{
+    color: maroon;
+    }
+    /* body{
+        background-color: white;
+    } */
+    h2{
+        border: 1px solid;
+    }
+    .bot{
+        color:black;
+        background-color:white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border: none;
+    }
+    .bot:hover{
+       text-decoration: underline;
+    }
+    #set{
+        margin-top:5.5px;
+         color:cadetblue;
+         font-family: 'Syne Mono', monospace;
+          font-size:20px;
+    }
+    #sot{
+        margin-top:5.5px;
+        color:white;
+        font-family: 'Syne Mono', monospace;
+         font-size:20px;
+         margin-left: 1170px;
+        /* margin-left: 60%; */
+    }
+    #sot:hover{
+        color: maroon;
+        font-style: bold;
+    }
+    label{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color:darkred
+    }
+    p{
+        margin-top: 5px;
+        
+    }
+    
+    .card{
+        color:bisque;
+        font-family:'Syne Mono', monospace;
+        background-image: url("./img2.jpg");
+    }
+    i{
+        float: right;
+        color: aliceblue;
+        cursor: pointer;
+    }
+    i:hover{
+        color: aquamarine;
+    }
+    a{
+        color:ghostwhite;
+        text-decoration: none;
+    }
+    a:hover{
+        color:ghostwhite;
+        text-decoration: underline;
+    }
